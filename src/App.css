@@ -1,11 +1,10 @@
 body{
   background-color: rgb(39, 151, 241);
 }
-.App {
+ .App {
   font-family: sans-serif;
   /* text-align: center; */
-  
-}
+} 
 .Card:hover{
   background-color: rgb(243, 244, 245);
   transform: scale(1.5); 
